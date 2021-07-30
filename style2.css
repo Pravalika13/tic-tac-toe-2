@@ -1,0 +1,108 @@
+.pages {
+	text-align: center;
+}
+.pages h3{
+	color: black;
+	font-size: 25px;
+	font-family: verdana;
+	text-decoration: underline;
+}
+.pages a{
+	text-decoration: none;
+	text-align: center;
+	margin: 10px;
+	color: limegreen;
+	font-size: 20px;
+	font-family: cosmic, sans serif;
+}
+.pages a:hover{
+	text-decoration: underline;
+	color: black;
+
+}
+.docs{
+	text-align: center;
+}
+.docs h3{
+	color: black;
+	font-size: 25px;
+	font-family: verdana;
+	text-decoration: underline;
+}
+.docs a{
+	text-decoration: none;
+	text-align: center;
+	margin: 10px;
+	color: limegreen;
+	font-size: 20px;
+	font-family: cosmic, sans serif;
+}
+.docs a:hover{
+	text-decoration: underline;
+	color: black;
+
+}
+.content{
+	background-color: #ffcc99;
+}
+footer img{
+	width: 1300px;
+}
+.social{
+	text-align: center;
+}
+.social h3{
+	color: black;
+	font-size: 25px;
+	font-family: verdana;
+	text-decoration: underline;
+}
+.social a{
+	
+	margin: 10px;
+	font-size: 30px;
+}
+.social a:hover{
+	color: black;
+}
+.contact{
+	text-align: center;
+}
+.contact h3{
+	color: black;
+	font-size: 25px;
+	font-family: verdana;
+	text-decoration: underline;
+}
+.contact a{
+	
+	margin: 10px;
+	color: limegreen;
+	font-size: 30px;
+}
+.contact a:hover{
+	color: black;
+
+}
+p{
+	font-size: 20px;
+	text-align: right;
+	padding-bottom: 5px;
+}
+.para{
+	background-color: grey;
+}
+ h2{
+	text-align: center;
+}
+hr{
+	background: black;
+	height: 3px;
+}
+.symbol img{
+	width: 150px;
+	float: left;
+}
+
+
+
